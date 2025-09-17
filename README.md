@@ -21,3 +21,17 @@
 - `requirements.txt` — зависимости.
 - `runs/` — логи и артефакты тренировок.
 
+
+
+Запуск через Docker :
+git clone https://github.com/Toster1903/t-bank-logo-detector.git
+cd t-bank-logo-detector
+
+Собрать Docker образ:
+docker build -t t-bank-logo-detector .
+
+Запустить контейнер:
+docker run -p 8000:8000 t-bank-logo-detector
+
+Перейдите в браузере по ссылке:
+http://127.0.0.1:8000/docs#/default/detect_logo_detect_post
