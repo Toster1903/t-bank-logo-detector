@@ -35,3 +35,7 @@ docker run -p 8000:8000 t-bank-logo-detector
 
 Перейдите в браузере по ссылке:
 http://127.0.0.1:8000/docs#/default/detect_logo_detect_post
+
+
+
+model:https://drive.google.com/file/d/19Pi2f3Tfz4kWrM8WCmCKO1eXyhQeX5Zj/view?usp=sharing
