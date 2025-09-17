@@ -1,0 +1,8 @@
+*.jpg
+*.txt
+.idea/
+!requirements.txt
+/classes.txt
+models_all/
+venv/
+*.pth

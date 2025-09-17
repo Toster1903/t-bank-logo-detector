@@ -1,0 +1,5 @@
+names:
+  0: T-bank_logo
+path: /home/dmitriy/PycharmProjects/T-bank
+train: /home/dmitriy/PycharmProjects/T-bank/data_train_val/images/train
+val: /home/dmitriy/PycharmProjects/T-bank/data_train_val/images/val
